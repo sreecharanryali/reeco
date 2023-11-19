@@ -1,0 +1,9 @@
+.order-details-list-item:not(:last-child) {
+  border-right: 1px solid lightgray;
+}
+.css-yiavyu-MuiBackdrop-root-MuiDialog-backdrop{
+    background: rgb(0 0 0 / 18%) !important;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+    box-shadow: none !important;
+}
