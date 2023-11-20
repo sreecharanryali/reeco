@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc2ce239.css",
+    "main.js": "/static/js/main.1f8228ae.js",
+    "static/js/787.2c582bd1.chunk.js": "/static/js/787.2c582bd1.chunk.js",
+    "static/media/AppleGreenSmith.png": "/static/media/AppleGreenSmith.66ea75731d23ab0ab68f.png",
+    "static/media/AvocadoHass.jpg": "/static/media/AvocadoHass.b65e885eec2bd4bdfdf5.jpg",
+    "static/media/logo.svg": "/static/media/logo.5cebd09ea3e02b8524ee837f531a6630.svg",
+    "index.html": "/index.html",
+    "main.dc2ce239.css.map": "/static/css/main.dc2ce239.css.map",
+    "main.1f8228ae.js.map": "/static/js/main.1f8228ae.js.map",
+    "787.2c582bd1.chunk.js.map": "/static/js/787.2c582bd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc2ce239.css",
+    "static/js/main.1f8228ae.js"
+  ]
+}
